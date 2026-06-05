@@ -1,0 +1,30 @@
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(238, 103, 103);
+    border-color: black;
+    padding: 5px;
+}
+
+.container1 h1{
+    font-size: 320%;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 35px;
+}
+
+#container> .btn-group{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container2 {
+    display: flex;
+    background-color:rgb(223, 213, 75);
+}
+.container2>.box-right img{
+    height:auto;
+    width:auto;
+    margin-right:80px;
+}
