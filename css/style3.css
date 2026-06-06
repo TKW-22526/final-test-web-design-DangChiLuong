@@ -1,0 +1,64 @@
+body {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    background: #a09e9e;
+}
+
+.left-col {
+    background: linear-gradient(160deg, #1a1a2e, #0f3460);
+    min-height: 100%;
+}
+
+.avatar-ring {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #e94560, #534AB7);
+    padding: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.avatar-inner {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: #1a1a2e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.8rem;
+    color: #e94560;
+}
+
+.contact-icon {
+    width: 34px;
+    height: 34px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.icon-phone { background: #eaf3de; color: #3B6D11; }
+.icon-email { background: #E6F1FB; color: #185FA5; }
+.icon-facebook { background: #EEEDFE; color: #534AB7; }
+.icon-zalo { background: #E1F5EE; color: #0F6E56; }
+
+.badge-avail {
+    background: rgba(233, 69, 96, 0.2);
+    color: #f4768e;
+    border: 1px solid rgba(233, 69, 96, 0.4);
+    letter-spacing: 0.05em;
+}
+
+.section-label {
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+}
+
+.contact-label {
+    font-size: 0.7rem;
+}

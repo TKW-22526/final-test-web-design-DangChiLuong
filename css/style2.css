@@ -19,23 +19,3 @@
     justify-content: space-between;
     background-color: aqua;
 }
-
-.container2 {
-    display: flex;
-    background-color:rgb(223, 213, 75);
-}
-.container2>.box-left img{
-    height:100%;
-    width:auto;
-    margin-right:120px;
-}
-
-.container2> .box-right h1 {
-    margin-top:20px;
-    color: red;
-    text-align: center;
-}
-
-.container2> .box-right p {
-    font-size: 20px;
-}
