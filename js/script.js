@@ -1,5 +1,5 @@
 
-//Chi tiết sản phẩm 
+ 
 
     // Danh sách sản phẩm — thêm sản phẩm mới vào đây
     const sanPham = [
@@ -29,7 +29,7 @@
 
         {
             id: 4,
-            ten: "Già giòn vui vẻ",
+            ten: "Gà giòn vui vẻ",
             gia: "33.000đ",
             hinh: "../assets/Chickenjoy.webp",
             moTa: "Với 1 miếng gà được chiên giòn, có màu vàng tươi, với lớp vỏ bột chắc xù và giòn.",
